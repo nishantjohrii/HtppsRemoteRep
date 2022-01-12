@@ -1,6 +1,8 @@
 ﻿modify a.txt
 Adding the line from github for pull function.
 
+<<<<<<< HEAD
 <H1> Adding a new heading </H1>
 <H1> Adding another heading </H1>
+
 
